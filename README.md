@@ -1,8 +1,13 @@
 ### Hi there 👋
 ### ![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&layout=compact)
-### [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=simpleRestApiMen&show_owner=true)](https://github.com/rezimaulana/simpleRestApiMen)
-### [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=cfn&show_owner=true)]
-### [![Repo name](https://github.com/rezimaulana/cfn) (https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci) 
+
+## Repos
+
+[![Simple Rest API](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=simpleRestApiMen&show_owner=true)](https://github.com/rezimaulana/simpleRestApiMen)
+
+[![Career Formation Network](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=cfn&show_owner=true)](https://github.com/rezimaulana/cfn)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci)
 
 
 
