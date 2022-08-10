@@ -1,5 +1,21 @@
 ### Hi there 👋
 ### ![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&layout=compact)
+### [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=repo-name)](https://github.com/rezimaulana/cfn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **rezimaulana/rezimaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
