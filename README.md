@@ -14,7 +14,7 @@
 
 ## Journals
 
-<a target="_blank" href="https://doi.org/10.29103/ijevs.v1i3.1592"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
+<a target="_blank" href="https://doi.org/10.29103/ijevs.v1i3.1592"><img src="https://github.com/rezimaulana/rezimaulana/blob/main/imgj1.png" alt="Journal 1">
 
 ## Repos
 
