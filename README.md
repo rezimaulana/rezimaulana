@@ -1,5 +1,7 @@
-### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=highcontrast&show_icons=true&count_private=true)
+###
+Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=highcontrast&show_icons=true&include_all_commit=true&count_private=true)
+
 <!--
 **rezimaulana/rezimaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
