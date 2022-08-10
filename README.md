@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I'm Rezi, Junior Web Programmer.
 - 🔭 Recently i'm working as Technical and Data Engineer.
+- 💬 You can ask me about logistics.
 - 👯 I’m looking to collaborate on application development.
 - 📫 You can always reach me at [linkedin](https://www.linkedin.com/in/rezimaulana/).
 
@@ -10,6 +11,10 @@
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&layout=compact)
+
+## Journals
+
+<a target="_blank" href="https://doi.org/10.29103/ijevs.v1i3.1592"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
 
 ## Repos
 
