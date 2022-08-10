@@ -17,9 +17,9 @@
 
 ## Repos
 
-[![Simple Rest API](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=simpleRestApiMen&show_owner=true)](https://github.com/rezimaulana/simpleRestApiMen)
-
 [![Career Formation Network](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=cfn&show_owner=true)](https://github.com/rezimaulana/cfn)
+
+[![Simple Rest API](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=simpleRestApiMen&show_owner=true)](https://github.com/rezimaulana/simpleRestApiMen)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci)
 
