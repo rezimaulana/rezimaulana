@@ -20,9 +20,9 @@
 
 [![Career Formation Network](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=cfn&show_owner=true)](https://github.com/rezimaulana/cfn)
 
-[![Simple Rest API](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=simpleRestApiMen&show_owner=true)](https://github.com/rezimaulana/simpleRestApiMen)
+[![Develpment MEN RestAPI](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=DevMenRestApi&show_owner=true)](https://github.com/rezimaulana/DevMenRestApi)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci)
+[![Travel](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci)
 
 ![](https://komarev.com/ghpvc/?username=rezimaulana)
 
