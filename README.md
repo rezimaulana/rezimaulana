@@ -14,8 +14,8 @@
     </p>
 </a>
 
-<!-- status codes -->
-<a align="center" href="https://im-o.github.io">
+<!-- Status Codes -->
+<a align="center" href="https://rezimaulana.github.io">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rezimaulana&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
   </p>
