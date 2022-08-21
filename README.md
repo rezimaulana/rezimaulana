@@ -24,7 +24,7 @@
 
 
 <!--
-<!-- Contributions -->
+Contributions
 <a href="https://rezimaulana.github.io/">
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
