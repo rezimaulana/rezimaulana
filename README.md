@@ -7,13 +7,6 @@
 
 <h2>🏆 Github Profile</h2>
 
-<!-- Contributions -->
-<a href="https://rezimaulana.github.io/">
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
-    </p>
-</a>
-
 <!-- Status Codes -->
 <a align="center" href="https://rezimaulana.github.io">
   <p align="center">
@@ -31,6 +24,13 @@
 
 
 <!--
+<!-- Contributions -->
+<a href="https://rezimaulana.github.io/">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
+    </p>
+</a>
+
 &hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=tokyonight&show_icons=true&count_private=true)
