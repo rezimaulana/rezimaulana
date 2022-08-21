@@ -7,6 +7,30 @@
 
 <h2>🏆 Github Profile</h2>
 
+<!-- Contributions -->
+<a href="https://rezimaulana.github.io/">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
+    </p>
+</a>
+
+<!-- status codes -->
+<a align="center" href="https://im-o.github.io">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rezimaulana&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
+  </p>
+</a>
+
+![](https://komarev.com/ghpvc/?username=rezimaulana)
+
+
+
+
+
+
+
+
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rezimaulana&theme=tokyonight&show_icons=true&count_private=true)
 
 
@@ -25,39 +49,7 @@
 [![Travel](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=travelci&show_owner=true)](https://github.com/rezimaulana/travelci)
 
 [![Develpment PHP](https://github-readme-stats.vercel.app/api/pin/?username=rezimaulana&repo=DevPhpSql&show_owner=true)](https://github.com/rezimaulana/DevPhpSql)
-
-![](https://komarev.com/ghpvc/?username=rezimaulana)
-
-
-<!-- Contributions -->
-<a href="https://rezimaulana.github.io/">
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
-    </p>
-</a>
-
-<!-- status codes -->
-<a align="center" href="https://im-o.github.io">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezimaulana&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
-  </p>
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
 
 <!--
 **rezimaulana/rezimaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
