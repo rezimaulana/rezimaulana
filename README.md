@@ -29,6 +29,21 @@
 ![](https://komarev.com/ghpvc/?username=rezimaulana)
 
 
+<!-- Contributions -->
+<a href="https://rezimaulana.github.io/">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rezimaulana&theme=neon-dark"/>
+    </p>
+</a>
+
+<!-- status codes -->
+<a align="center" href="https://im-o.github.io">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rezimaulana&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezimaulana&hide=scss,css,tsql,blade,%20jupyter+notebook,cmake,html&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
+  </p>
+</a>
+
+
 
 
 
