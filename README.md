@@ -1,9 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 - 🌱 I'm Rezi, Junior Web Programmer.
 - 🔭 Recently i'm working as Technical and Data Engineer.
 - 💬 You can ask me about logistics.
 - 👯 I’m looking to collaborate on application development.
-- 📫 You can always reach me at [linkedin](https://www.linkedin.com/in/rezimaulana/).
+- 📫 You can always reach me at [linkedin](https://www.linkedin.com/in/rezimaulana/). -->
 
 <h2>🏆 Github Profile</h2>
 
